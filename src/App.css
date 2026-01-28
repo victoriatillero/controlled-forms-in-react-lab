@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+.bookCard {
+  display: flex;
+  flex-direction:column;
+  background-color: aquamarine;
+  border: 20px black;
+}
